@@ -2,12 +2,10 @@
 layout: default
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/seattke neighborhoods map.webp">
 
 
 # Housing Affordability in Seattle
-
-## The Team
 
 **Course:** SOC401
 
