@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Methods
+title: Analysis
 ---
 
 **Data**
