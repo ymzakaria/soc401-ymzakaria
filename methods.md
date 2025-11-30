@@ -3,27 +3,6 @@ layout: page
 title: Analysis
 ---
 
-**Data**
+**Seattle Map**
 
-What data sets are you using?
-What did you do to prepare the data?
-
-**Tools (aka “component specification”)**
-
-What software packages, modules, etc. did you use? 
-What are the dependencies between these and how did you render them interoperable?
-
-**Processes**
-
-What does your workflow or pipeline look like? 
-What steps did you follow? 
-
-**Analyses**
-
-What approaches did you try that didn’t work?
-What analyses did you end up sticking with?
-
-**Limitations**
-
-What are the shortcomings of your approach?
-How can your work be improved?
+This interactive map shows the variations across displacement typologies across the Seattle neighborhoods. This highlights the spatial clustering of affordability challenges. Showing that tracts classified as “Advanced Displacement” and “Ongoing Displacement” contain lower shares of affordable units, while “Stable High-Income” areas show concentrated growth in 50-80%AMI units. These spatial differences make it clear that affordability pressures are unevenly distributed across neighborhoods.
