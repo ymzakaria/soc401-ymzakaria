@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/seattke neighborhoods map.webp">
-
 
 # Rent Stabilization Policies and Housing Affordability in Seattle
 
