@@ -19,7 +19,7 @@ Table 1 provides additional insight into how affordability intersects with displ
 
 Several other categories signal ongoing or advanced forms of neighborhood change. For example, “Early/Ongoing Gentrification” and “Advanced Gentrification” together account for 25 tracts, highlighting areas where housing conditions and neighborhood demographics are rapidly shifting. The “At Risk of Becoming Exclusive” and “Becoming Exclusive” categories, representing 58 and 34 tracts respectively, illustrate the spatial expansion of higher-income enclaves, where rising costs are gradually reducing access for lower-income households.
 
-When viewed alongside the map and rental unit trends, Table 3 reinforces a clear pattern: neighborhoods with the greatest affordability challenges often overlap with those facing the highest risk of displacement. This alignment suggests that affordability pressures are structural rather than incidental and that they disproportionately impact neighborhoods with long-standing socioeconomic vulnerability.
+When viewed alongside the map and rental unit trends, Table 1 reinforces a clear pattern: neighborhoods with the greatest affordability challenges often overlap with those facing the highest risk of displacement. This alignment suggests that affordability pressures are structural rather than incidental and that they disproportionately impact neighborhoods with long-standing socioeconomic vulnerability.
 
 **Affordability Trends: Rental Units by AMI Tier Over Time**
 
