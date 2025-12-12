@@ -5,9 +5,9 @@ permalink:        pretty
 
 
 # Setup
-title:           My SOC 401 Project
+title:           SOC 401 Final Project
 tagline:          ''
-description:      'A data science project about housing affordability in Seattle' 
+description:      'Rent Stabilization Policies and Housing Affordability in Seattle' 
 url:              "https://ymzakaria.github.io"
 baseurl:          "/soc401-ymzakaria"
 
