@@ -13,7 +13,9 @@ What stands out in the map is the overlap between displacement risk and the limi
 
 **Typology Summary: Distribution of Neighborhood Displacement Categories**
 
-Table 3 provides additional insight into how affordability intersects with displacement risk. The most common category is “Stable Moderate/Mixed Income,” with 178 tracts, suggesting broad areas of relative stability. However, the second-largest category is “Low-Income/Susceptible to Displacement,” encompassing 58 tracts across the city. This indicates that a significant number of neighborhoods face economic pressures that could lead to resident turnover, rising rents, and loss of community cohesion.
+![Trend Analysis](assets/img/table3_typology.png)
+
+Table 1 provides additional insight into how affordability intersects with displacement risk. The most common category is “Stable Moderate/Mixed Income,” with 178 tracts, suggesting broad areas of relative stability. However, the second-largest category is “Low-Income/Susceptible to Displacement,” encompassing 58 tracts across the city. This indicates that a significant number of neighborhoods face economic pressures that could lead to resident turnover, rising rents, and loss of community cohesion.
 
 Several other categories signal ongoing or advanced forms of neighborhood change. For example, “Early/Ongoing Gentrification” and “Advanced Gentrification” together account for 25 tracts, highlighting areas where housing conditions and neighborhood demographics are rapidly shifting. The “At Risk of Becoming Exclusive” and “Becoming Exclusive” categories, representing 58 and 34 tracts respectively, illustrate the spatial expansion of higher-income enclaves, where rising costs are gradually reducing access for lower-income households.
 
