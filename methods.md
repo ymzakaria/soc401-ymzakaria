@@ -21,6 +21,10 @@ When viewed alongside the map and rental unit trends, Table 3 reinforces a clear
 
 **Trends in Rental Units by Affordability Category Over Time**
 
+![Seattle Housing Analysis](assets/img/figure1_time_series.png)
+
+![Trend Analysis](assets/img/figure9_trend_analysis.png)
+
 The time-series visuals show long-term shifts in Seattle’s rental housing supply by affordability level. Units affordable to households earning 0–30% AMI remain consistently low throughout the study period and decline sharply after 2010. This drop is especially concerning because households in this income tier experience the highest rent burdens and have the fewest alternative housing options. The decline suggests that the production of deeply affordable units is not keeping pace with need, increasing the likelihood of displacement for extremely low-income renters.
 
 In contrast, units affordable to households earning 50–80% AMI grow steadily over time, with significant acceleration beginning around 2018. The analysis indicates that this tier now represents the largest portion of new rental units being added to the market. While this growth may relieve pressure for moderate-income renters, it does not address the substantial unmet need among the lowest-income households. The widening gap between the production of deeply affordable units and moderate-income units demonstrates how the market is disproportionately serving middle-income renters and leaving lower-income households increasingly vulnerable.
