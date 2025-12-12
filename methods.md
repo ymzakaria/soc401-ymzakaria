@@ -3,7 +3,7 @@ layout: page
 title: Analysis
 ---
 
-**Spatial Patterns of Displacement Risk in Seattle (Map)**
+**Displacement Map: Spatial Patterns of Displacement Risk in Seattle**
 
 <iframe src="/analysis1.md" width="100%" height="600px" style="border:none;"></iframe>
 
@@ -11,7 +11,7 @@ The interactive displacement typology map reveals clear spatial clustering of ho
 
 What stands out in the map is the overlap between displacement risk and the limited supply of deeply affordable units. Many of the tracts at high risk have not seen growth in affordable housing, while more economically stable neighborhoods show greater increases in units affordable to moderate-income households. This spatial mismatch highlights the uneven distribution of affordability pressures across the city and underscores the structural nature of housing inequity in Seattle. Rather than being distributed randomly, displacement risk is geographically concentrated in neighborhoods already facing socioeconomic strain. 
 
-**Housing Affordability Across Displacement Typologies**
+**Typology Summary: Distribution of Neighborhood Displacement Categories**
 
 Table 3 provides additional insight into how affordability intersects with displacement risk. The most common category is “Stable Moderate/Mixed Income,” with 178 tracts, suggesting broad areas of relative stability. However, the second-largest category is “Low-Income/Susceptible to Displacement,” encompassing 58 tracts across the city. This indicates that a significant number of neighborhoods face economic pressures that could lead to resident turnover, rising rents, and loss of community cohesion.
 
@@ -19,7 +19,7 @@ Several other categories signal ongoing or advanced forms of neighborhood change
 
 When viewed alongside the map and rental unit trends, Table 3 reinforces a clear pattern: neighborhoods with the greatest affordability challenges often overlap with those facing the highest risk of displacement. This alignment suggests that affordability pressures are structural rather than incidental and that they disproportionately impact neighborhoods with long-standing socioeconomic vulnerability.
 
-**Trends in Rental Units by Affordability Category Over Time**
+**Affordability Trends: Rental Units by AMI Tier Over Time**
 
 ![Seattle Housing Analysis](assets/img/figure1_time_series.png)
 
