@@ -3,6 +3,8 @@ layout: page
 title: Analysis
 ---
 
+**Data Sources:** This analysis uses data compiled from the City of Seattle Open Data Portal (ACS Data) and the Urban Displacement Project. All data are available in [this Google Sheet](https://docs.google.com/spreadsheets/d/1823BGFB4_GZRrqpplI6byrhhhu7p6In5AeeIeEyn_jw/edit?usp=sharing)
+
 **Displacement Map: Spatial Patterns of Displacement Risk in Seattle**
 
 <iframe src="/soc401-ymzakaria/assets/img/map.html" width="100%" height="600px" style="border:none;"></iframe>
