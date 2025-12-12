@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Affordability Trends: Rental Units by AMI Tier Over Time
+title: Affordability Trends Rental Units by AMI Tier Over Time
 ---
 ![Seattle Housing Analysis](assets/img/figure1_time_series.png)
 
