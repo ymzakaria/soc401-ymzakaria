@@ -2,7 +2,8 @@
 layout: default
 ---
 
-
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 # Rent Stabilization Policies and Housing Affordability in Seattle
 
 **Course:** SOC401
