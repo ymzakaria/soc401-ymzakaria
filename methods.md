@@ -15,14 +15,16 @@ title: Analysis
 <div id="map"></div>
 
 <script>
-  var map = L.map('map').setView([40.7128, -74.0060], 11);
-  
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '© OpenStreetMap contributors'
-  }).addTo(map);
-  
-  var marker = L.marker([40.7128, -74.0060]).addTo(map);
-  marker.bindPopup("<b>New York City</b>").openPopup();
+  document.addEventListener('DOMContentLoaded', function() {
+    var map = L.map('map').setView([40.7128, -74.0060], 11);
+    
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© OpenStreetMap contributors'
+    }).addTo(map);
+    
+    var marker = L.marker([40.7128, -74.0060]).addTo(map);
+    marker.bindPopup("<b>New York City</b>").openPopup();
+  });
 </script>
 
 The interactive displacement typology map reveals clear spatial clustering of housing vulnerability across Seattle. Neighborhoods classified as “Low-Income/Susceptible to Displacement,” “Advanced Displacement,” or “Ongoing Displacement” are concentrated largely in central and south Seattle. These areas have historically housed lower-income communities and communities of color, and the map shows that they continue to face heightened vulnerability as redevelopment pressures increase. In contrast, neighborhoods in north Seattle are more likely to appear as “Stable High-Income” or “Stable Moderate/Mixed Income,” indicating lower displacement risk and relatively stable housing conditions.
