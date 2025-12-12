@@ -5,6 +5,8 @@ title: Analysis
 
 **Spatial Patterns of Displacement Risk in Seattle (Map)**
 
+{% include map.html %}
+
 The interactive displacement typology map reveals clear spatial clustering of housing vulnerability across Seattle. Neighborhoods classified as “Low-Income/Susceptible to Displacement,” “Advanced Displacement,” or “Ongoing Displacement” are concentrated largely in central and south Seattle. These areas have historically housed lower-income communities and communities of color, and the map shows that they continue to face heightened vulnerability as redevelopment pressures increase. In contrast, neighborhoods in north Seattle are more likely to appear as “Stable High-Income” or “Stable Moderate/Mixed Income,” indicating lower displacement risk and relatively stable housing conditions.
 
 What stands out in the map is the overlap between displacement risk and the limited supply of deeply affordable units. Many of the tracts at high risk have not seen growth in affordable housing, while more economically stable neighborhoods show greater increases in units affordable to moderate-income households. This spatial mismatch highlights the uneven distribution of affordability pressures across the city and underscores the structural nature of housing inequity in Seattle. Rather than being distributed randomly, displacement risk is geographically concentrated in neighborhoods already facing socioeconomic strain. 
